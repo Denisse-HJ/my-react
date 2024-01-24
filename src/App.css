@@ -41,7 +41,6 @@
   color: #888;
 }
 
-.container {
-  color: #f4f0f0;
-  
+h1,h2,p {
+  color: rgb(254, 254, 254);
 }
